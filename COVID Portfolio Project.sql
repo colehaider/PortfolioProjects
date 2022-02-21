@@ -1,3 +1,5 @@
+-- (Data retrieved from ourworldindata.org)
+
 Select *
 From PortfolioProject..CovidDeaths
 Order by 3,4
